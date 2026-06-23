@@ -1,0 +1,19 @@
+# Store Sales Prediction
+
+Predict future store sales using machine learning.
+
+## Tech Stack
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+## Workflow
+1. Data cleaning
+2. Exploratory Data Analysis
+3. Feature engineering
+4. Model training using Random Forest
+5. Sales forecasting
+
+## Metrics
+RMSE and R2 Score used for evaluation.
